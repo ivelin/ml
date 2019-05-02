@@ -1,2 +1,2 @@
 # ml
-Various Machine Learning projects
+Various Machine Learning experiments
